@@ -28,7 +28,7 @@ Menggunakan library `@whiskeysockets/baileys` yang stabil.
 
 ## 📦 Cara Install di Termux (Lengkap & Anti Error)
 
-Ikuti langkah ini satu per satu agar semua fitur (Downloader, Sticker, Scraping) berjalan lancar.
+Ikuti langkah ini satu per satu agar semua fitur (Downloader, Sticker) berjalan lancar.
 
 ### Update & Install Paket Utama
 Kita membutuhkan Git, Node.js, FFmpeg (untuk sticker), Neofetch (untuk status), dan Python (untuk downloader).
