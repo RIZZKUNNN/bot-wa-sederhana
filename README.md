@@ -1,4 +1,4 @@
-# 🤖 BOT WHATSAPP TERMUX (V17 - Clean Edition)
+# 🤖 BOT WHATSAPP SEDERHANA 
 
 Bot WhatsApp ringan dan cepat yang dibuat khusus untuk berjalan di **Termux**.
 Menggunakan library `@whiskeysockets/baileys` yang stabil.
