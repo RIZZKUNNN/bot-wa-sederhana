@@ -27,7 +27,7 @@ Menggunakan library `@whiskeysockets/baileys` yang stabil.
 
 Ikuti langkah ini satu per satu agar semua fitur (Downloader, Sticker, Scraping) berjalan lancar.
 
-### 1. Update & Install Paket Utama
+### Update & Install Paket Utama
 Kita membutuhkan Git, Node.js, FFmpeg (untuk sticker), Neofetch (untuk status), dan Python (untuk downloader).
 
 ```bash
