@@ -36,7 +36,8 @@ Kita membutuhkan Git, Node.js, FFmpeg (untuk sticker), Neofetch (untuk status), 
 ### Langkah 1: Install Paket Sistem (Termux)
 ```bash
 pkg update && pkg upgrade -y
-pkg update && pkg upgrade -y
+git clone https://github.com/RIZZKUNNN/bot-wa-sederhana.git
+cd bot-wa-sederhana
 pkg install git nodejs ffmpeg libwebp python neofetch -y
 ```
 
