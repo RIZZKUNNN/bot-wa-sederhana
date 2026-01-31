@@ -30,9 +30,23 @@ Ikuti langkah ini satu per satu agar semua fitur (Downloader, Sticker, Scraping)
 ### Update & Install Paket Utama
 Kita membutuhkan Git, Node.js, FFmpeg (untuk sticker), Neofetch (untuk status), dan Python (untuk downloader).
 
+### Langkah 1: Install Paket Sistem (Termux)
 ```bash
 pkg update && pkg upgrade -y
-pkg install git nodejs ffmpeg libwebp neofetch python -y
+pkg update && pkg upgrade -y
+pkg install git nodejs ffmpeg libwebp python neofetch -y
+```
+
+### Langkah 2: Install yt-dlp (Python)
+```bash
 pip install yt-dlp
+```
+
+### Langkah 3: Install Paket Bot (Node.js)
+```bash
+npm install @whiskeysockets/baileys pino cheerio axios qrcode-terminal jimp --legacy-peer-deps
+```
+### Cara Install dan mengaktifkan bot
+```bash
 npm install
 node index.js
