@@ -4,7 +4,7 @@
 */
 
 // --- 1. CONFIG OWNER ---
-const superAdmins = ['178396197835005']; 
+const superAdmins = ['Ganti Dengan Id Lindev WhatsApp Mu Sendiri']; 
 // -----------------------
 
 const { 
