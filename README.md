@@ -3,25 +3,28 @@
 Bot WhatsApp ringan dan cepat yang dibuat khusus untuk berjalan di **Termux**.
 Menggunakan library `@whiskeysockets/baileys` yang stabil.
 
-## ✨ Fitur Unggulan
+## ✨ Fitur 
+1️⃣ *.sticker* / *.s*
+   (Gambar/Video ➡️ Sticker)
 
-### 🎬 Anime & Donghua (Scraping)
-- **.animexin <judul>** : Cari & Update terbaru Donghua (Anime China).
-- **.otakudesu <judul>** : Cari Anime & Episode On-Going.
-- **.kusonime <judul>** : Cari Anime Batch (Langsung tamat).
+2️⃣ *.download* / *.dl* <link>
+   (YouTube/TikTok ➡️ Video MP4)
+   *Note: Video bisa langsung diputar*
 
-### 🛠️ Tools & Utilitas
-- **.dl <link>** : Universal Video Downloader (Support YouTube, TikTok, IG, FB, dll) menggunakan **yt-dlp**.
-- **.s / .sticker** : Convert Gambar/Video menjadi Sticker WA.
-- **.sfile <query>** : Cari dan download file dari Sfile.mobi.
-- **.berita <sumber>** : Baca berita terbaru (cnn/detik).
+3️⃣ *.audio* / *.mp3* <link>
+   (YouTube ➡️ Lagu/Audio MP3)
 
-### ⚙️ System & Owner
-- **.status** : Cek RAM, Baterai, OS, dan Provider Internet.
-- **.neofetch** : Info spesifikasi device yang estetik.
-- **.bc <pesan>** : Broadcast pesan ke semua grup/chat (Owner Only).
+4️⃣ *.setpp*
+   (Ganti PP Bot - Khusus Owner)
 
----
+5️⃣ *.neofetch* / *.neo*
+   (Info Server)
+
+6️⃣ *.ping*
+   (Cek Speed)
+
+7️⃣ *.menu*
+   (Daftar Menu)
 
 ## 📦 Cara Install di Termux (Lengkap & Anti Error)
 
